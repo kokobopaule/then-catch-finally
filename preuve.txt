@@ -1,0 +1,3 @@
+a,b                  
+Echec :  Erreur réseau    
+Terminé , quoi qu'il arrive 
